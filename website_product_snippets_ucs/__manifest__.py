@@ -34,6 +34,4 @@
             'website_product_snippets_ucs/static/src/js/website_sale_snippet_products_options.js',
         ],
     },
-    "price": 30,
-    "currency": "USD",
 }
